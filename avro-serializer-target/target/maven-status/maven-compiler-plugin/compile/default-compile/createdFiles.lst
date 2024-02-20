@@ -1,0 +1,17 @@
+io\confluent\kafka\formatter\AvroMessageReader.class
+io\confluent\kafka\serializers\AbstractKafkaAvroSerDeConfig.class
+io\confluent\kafka\formatter\AvroMessageFormatter$AvroMessageDeserializer.class
+io\confluent\kafka\formatter\AvroMessageReader$AvroMessageSerializer.class
+io\confluent\kafka\serializers\AbstractKafkaAvroDeserializer.class
+io\confluent\kafka\serializers\AvroData.class
+io\confluent\kafka\serializers\SchemaPair.class
+io\confluent\kafka\serializers\NonRecordContainer.class
+io\confluent\kafka\serializers\KafkaAvroDeserializerConfig.class
+io\confluent\kafka\serializers\GenericContainerWithVersion.class
+io\confluent\kafka\formatter\AvroMessageFormatter.class
+io\confluent\kafka\serializers\KafkaAvroDeserializer.class
+io\confluent\kafka\serializers\AbstractKafkaAvroSerializer.class
+io\confluent\kafka\serializers\KafkaAvroDecoder.class
+io\confluent\kafka\serializers\AbstractKafkaAvroDeserializer$DeserializationContext.class
+io\confluent\kafka\serializers\KafkaAvroSerializerConfig.class
+io\confluent\kafka\serializers\KafkaAvroSerializer.class

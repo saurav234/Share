@@ -1,0 +1,17 @@
+io\confluent\kafka\formatter\AvroMessageFormatterTest.class
+io\confluent\kafka\example\ExtendedWidget.class
+io\confluent\kafka\example\ExtendedUser$1.class
+io\confluent\kafka\formatter\KafkaAvroFormatterTest.class
+io\confluent\kafka\serializers\KafkaAvroSerializerTest.class
+io\confluent\kafka\example\User$Builder.class
+io\confluent\kafka\serializers\AbstractKafkaAvroDeserializerTest$Deserializer.class
+io\confluent\kafka\example\User$1.class
+io\confluent\kafka\example\User.class
+io\confluent\kafka\example\Widget.class
+io\confluent\kafka\example\ExtendedUser.class
+io\confluent\kafka\example\ExtendedUser$Builder.class
+io\confluent\kafka\serializers\AvroSchemaTest.class
+io\confluent\kafka\serializers\AbstractKafkaAvroDeserializerTest.class
+io\confluent\kafka\example\annotated\User$Builder.class
+io\confluent\kafka\example\annotated\User$1.class
+io\confluent\kafka\example\annotated\User.class

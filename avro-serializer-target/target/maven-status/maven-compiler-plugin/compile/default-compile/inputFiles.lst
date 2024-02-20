@@ -1,0 +1,14 @@
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\KafkaAvroDecoder.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\AbstractKafkaAvroSerDeConfig.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\KafkaAvroSerializer.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\formatter\AvroMessageFormatter.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\KafkaAvroSerializerConfig.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\AbstractKafkaAvroSerializer.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\KafkaAvroDeserializerConfig.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\GenericContainerWithVersion.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\SchemaPair.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\AvroData.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\NonRecordContainer.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\AbstractKafkaAvroDeserializer.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\KafkaAvroDeserializer.java
+C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\formatter\AvroMessageReader.java

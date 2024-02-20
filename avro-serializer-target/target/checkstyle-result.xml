@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.44">
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\formatter\AvroMessageFormatter.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\formatter\AvroMessageReader.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\AbstractKafkaAvroDeserializer.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\AbstractKafkaAvroSerDeConfig.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\AbstractKafkaAvroSerializer.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\AvroData.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\GenericContainerWithVersion.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\KafkaAvroDecoder.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\KafkaAvroDeserializer.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\KafkaAvroDeserializerConfig.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\KafkaAvroSerializer.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\KafkaAvroSerializerConfig.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\NonRecordContainer.java">
+</file>
+<file name="C:\Users\Monika\OneDrive\Desktop\Kafka\Schema-Registry\avro-serializer\src\main\java\io\confluent\kafka\serializers\SchemaPair.java">
+</file>
+</checkstyle>
