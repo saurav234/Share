@@ -13,3 +13,4 @@ C:\Users\Monika\.m2\repository\ch\qos\logback\logback-classic\1.4.5\logback-clas
 C:\Users\Monika\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.2\jackson-annotations-2.14.2.jar
 C:\Users\Monika\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.9.2\jackson-core-asl-1.9.2.jar
 C:\Users\Monika\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.9.2\jackson-mapper-asl-1.9.2.jar
+C:\Users\Monika\.m2\repository\org\apache\kafka\kafka-server-common\7.5.3-ccs\kafka-server-common-7.5.3-ccs.jar
