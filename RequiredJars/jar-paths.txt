@@ -9,6 +9,7 @@ C:\Users\Monika\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.2\ja
 C:\Users\Monika\.m2\repository\org\apache\avro\avro\1.11.3\avro-1.11.3.jar
 C:\Users\Monika\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.2\jackson-databind-2.14.2.jar
 C:\Users\Monika\.m2\repository\ch\qos\logback\logback-core\1.4.5\logback-core-1.4.5.jar
+C:\Users\Monika\.m2\repository\ch\qos\logback\logback-classic\1.4.5\logback-classic-1.4.5.jar
 C:\Users\Monika\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.2\jackson-annotations-2.14.2.jar
 C:\Users\Monika\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.9.2\jackson-core-asl-1.9.2.jar
 C:\Users\Monika\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.9.2\jackson-mapper-asl-1.9.2.jar
